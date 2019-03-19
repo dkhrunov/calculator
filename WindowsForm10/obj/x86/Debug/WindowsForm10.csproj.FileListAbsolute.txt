@@ -1,0 +1,8 @@
+C:\Users\DeKh\documents\visual studio 2010\Projects\WindowsForm10\WindowsForm10\bin\Debug\WindowsForm10.exe
+C:\Users\DeKh\documents\visual studio 2010\Projects\WindowsForm10\WindowsForm10\bin\Debug\WindowsForm10.pdb
+C:\Users\DeKh\documents\visual studio 2010\Projects\WindowsForm10\WindowsForm10\obj\x86\Debug\WindowsForm10.csprojResolveAssemblyReference.cache
+C:\Users\DeKh\documents\visual studio 2010\Projects\WindowsForm10\WindowsForm10\obj\x86\Debug\WindowsForm10.Form1.resources
+C:\Users\DeKh\documents\visual studio 2010\Projects\WindowsForm10\WindowsForm10\obj\x86\Debug\WindowsForm10.Properties.Resources.resources
+C:\Users\DeKh\documents\visual studio 2010\Projects\WindowsForm10\WindowsForm10\obj\x86\Debug\WindowsForm10.csproj.GenerateResource.Cache
+C:\Users\DeKh\documents\visual studio 2010\Projects\WindowsForm10\WindowsForm10\obj\x86\Debug\WindowsForm10.exe
+C:\Users\DeKh\documents\visual studio 2010\Projects\WindowsForm10\WindowsForm10\obj\x86\Debug\WindowsForm10.pdb
